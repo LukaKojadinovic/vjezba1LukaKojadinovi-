@@ -6,5 +6,6 @@ namespace vjezba1LukaKojadinović
 {
     class NewClass
     {
+        //komentar
     }
 }
