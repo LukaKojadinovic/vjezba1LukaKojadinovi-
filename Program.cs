@@ -7,6 +7,7 @@ namespace vjezba1LukaKojadinović
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+             Console.WriteLine("Novo od Maris");
         }
     }
 }
